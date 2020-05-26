@@ -1,0 +1,277 @@
+REQUEST timestamp:20200502101656
+PATH: /api/students
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101700
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101709
+PATH: /api/students/s16446
+METHOD: DELETE
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101715
+PATH: /api/students/s16446
+METHOD: GET
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101723
+PATH: /api/students/
+METHOD: PUT
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101728
+PATH: /api/students/s16446
+METHOD: PUT
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101739
+PATH: /api/students/enrollments
+METHOD: PUT
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101749
+PATH: /api/students/s16446/1
+METHOD: PUT
+QUERY: 
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101756
+PATH: /api/students/s16446
+METHOD: PUT
+QUERY: ?semester=1
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200502101801
+PATH: /api/students/s16446
+METHOD: PUT
+QUERY: ?semester=2
+BODY: {
+	"IndexNumber":"s16446",
+	"FirstName":"Jan",
+	"LastName":"Kowalski",
+	"BirthDate":"21.08.1984",
+	"Studies":"IT"
+}
+REQUEST timestamp:20200517052311
+PATH: /api/students/
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517052322
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517052512
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517052603
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517053032
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517053123
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517053459
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517053509
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054248
+PATH: /api/students/
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054300
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054302
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054433
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054436
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054442
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s12345"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054502
+PATH: /api/students/login
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s11111"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517054517
+PATH: /api/students
+METHOD: POST
+QUERY: 
+BODY: {
+	"Login":"s11111"
+	"Password":"xxxx"
+	"Role":"employee"
+}
+REQUEST timestamp:20200517063226
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: {
+	"login": "jan123",
+	"password":"password"
+	
+}
+REQUEST timestamp:20200517063239
+PATH: /api/students/
+METHOD: POST
+QUERY: 
+BODY: {
+	"login": "jan123",
+	"password":"password"
+	
+}
+REQUEST timestamp:20200517063315
+PATH: /api/students/
+METHOD: GET
+QUERY: 
+BODY: 
